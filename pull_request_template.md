@@ -1,1 +1,1 @@
-/pull_request_template.md
+/PULL_REQUEST_TEMPLATE.md
