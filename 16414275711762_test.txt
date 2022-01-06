@@ -1,1 +1,1 @@
-[Product] Add review queue filter api
+[Product] Add review queue filter frontend
