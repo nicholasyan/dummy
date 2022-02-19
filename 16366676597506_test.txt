@@ -1,0 +1,1 @@
+[Bug Fix] Account for empty state
