@@ -1,0 +1,2 @@
+[a]: https://example.com
+[b]: https://example.com "title"
